@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44bbc8e0-81d2-4b20-9600-a544382c3261" name="변경" comment="commit">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/printProblemCount.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Person.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PersonMember.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/salute.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/PersonTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/PersonTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -86,7 +90,8 @@
       <workItem from="1652623062231" duration="4553000" />
       <workItem from="1652680248500" duration="2716000" />
       <workItem from="1652792515384" duration="4576000" />
-      <workItem from="1654087095403" duration="623000" />
+      <workItem from="1654087095403" duration="1820000" />
+      <workItem from="1654523344771" duration="136000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1652794238521</created>
